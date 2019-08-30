@@ -29,4 +29,3 @@ Has worked heavily on:
 ### Contact me
 
 [allentuoli@gmail.com](mailto:allentuoli@gmail.com)
-
