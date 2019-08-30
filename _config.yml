@@ -5,10 +5,10 @@
 # relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Allen's data Science blog
+tagline:             Data Science is fun
+description:         
+url:                 
 baseurl:             ''
 paginate:            5
 
@@ -21,4 +21,4 @@ author:
 # Custom vars
 version:             1.0.0
 
-theme: jekyll-theme-minimal
+
