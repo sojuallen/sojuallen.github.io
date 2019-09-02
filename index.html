@@ -12,16 +12,6 @@ title: Home
 </ul>
 
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
-
-
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
