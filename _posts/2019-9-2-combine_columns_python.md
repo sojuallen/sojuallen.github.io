@@ -1,6 +1,8 @@
 ---
 layout: post
 title: fastest way to combine columns in Python 
+categories: [python, feature engineering]
+tages: [string, python]
 ---
 
 What’s the fastest way to combine columns? Let’s test it:
