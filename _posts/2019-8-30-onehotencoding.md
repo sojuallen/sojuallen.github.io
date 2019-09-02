@@ -1,6 +1,9 @@
 ---
 layout: post
 title: A closer look at OneHotEncoding methods in Python 
+categories: [feature engineering, python]
+tags: [categorical variable, one hot encoding,python]
+excerpt_separator: <!--more-->
 ---
 
 
